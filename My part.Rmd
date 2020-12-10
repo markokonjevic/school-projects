@@ -7,7 +7,10 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
+This was my part in the class project, making a Covid Shiny App
 ```{r}
+
 
 #order the number of cases for each state by date and calculate death/cases     ratio by day, 
 #stored in new$ratio. highest ratio is found by state and sorted in         peak_sorted
